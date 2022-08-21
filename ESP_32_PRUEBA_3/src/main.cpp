@@ -1,6 +1,7 @@
 #include <Arduino.h>
 
-#define HIGH = SI
+#define SI 1
+#define NO 0
 
 void setup() {
   // put your setup code here, to run once:
